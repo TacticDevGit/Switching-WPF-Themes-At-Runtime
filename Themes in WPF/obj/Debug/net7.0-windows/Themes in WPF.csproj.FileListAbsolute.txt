@@ -1,0 +1,24 @@
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\bin\Debug\net7.0-windows\Themes in WPF.exe
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\bin\Debug\net7.0-windows\Themes in WPF.deps.json
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\bin\Debug\net7.0-windows\Themes in WPF.runtimeconfig.json
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\bin\Debug\net7.0-windows\Themes in WPF.dll
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\bin\Debug\net7.0-windows\Themes in WPF.pdb
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.g.resources
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.dll
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\refint\Themes in WPF.dll
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.pdb
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes in WPF.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\ref\Themes in WPF.dll
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes\Dark.baml
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\Themes\Light.baml
+C:\Users\Jamie\source\repos\Themes in WPF\Themes in WPF\obj\Debug\net7.0-windows\App.baml

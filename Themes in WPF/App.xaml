@@ -1,0 +1,13 @@
+﻿<Application x:Class="Themes_in_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Themes_in_WPF"
+             StartupUri="MainWindow.xaml">
+
+
+    <Application.Resources>
+        <ResourceDictionary Source="Themes/Light.xaml"/>
+    </Application.Resources>
+    
+ 
+</Application>
